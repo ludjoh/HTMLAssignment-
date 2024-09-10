@@ -12,11 +12,37 @@
    ========================================================================== */
 
 html {
-  color: #222;
+  color: #555555;
   font-size: 1em;
   line-height: 1.4;
 }
+body{
+  background: aquamarine;
+  width: 100%;
+  position: fixed;
+  text-align: center;
 
+}
+
+img {
+  font-size: 20%;
+
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+  width: 100%;
+}
+
+h1 {
+  color: orange;§
+}
+
+p {
+  color: black
+;
+}
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
