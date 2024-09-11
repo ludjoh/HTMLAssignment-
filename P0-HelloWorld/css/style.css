@@ -12,13 +12,18 @@
    ========================================================================== */
 
 html {
-  color: #555555;
+  color: cornflowerblue;
   font-size: 1em;
   line-height: 1.4;
 }
 body {
-  color: cornflowerblue;
+ background-color: royalblue;
+
+;
 }
+
+
+
 
 h1 {
    color: red;
@@ -30,7 +35,7 @@ h1 {
 }
 
 p{
- color: blue;
+ color: pink;
   width: 100%;
   text-align: center;
 
